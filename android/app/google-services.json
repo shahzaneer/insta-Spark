@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47973314992",
+    "project_id": "insta-spark",
+    "storage_bucket": "insta-spark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47973314992:android:1b112c4da061a26f79e675",
+        "android_client_info": {
+          "package_name": "com.example.insta_spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47973314992-itr2iopjt7r20g75q4b2ikca3vr15f7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmz5_9IySh-IoIChS3bmUNVDJyjYTfNJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47973314992-itr2iopjt7r20g75q4b2ikca3vr15f7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
