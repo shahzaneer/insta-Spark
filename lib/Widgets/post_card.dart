@@ -2,14 +2,14 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
-
 import '../Screens/comments_screen.dart';
 import '../Utils/colors.dart';
 import '../Utils/global_variable.dart';
 import '../Utils/utils.dart';
-import '../providers/user_provider.dart' as model;
 import '../resources/firestore_methods.dart';
 import 'like_animation.dart';
+import 'package:insta_spark/models/user.dart' as model;
+import 'package:insta_spark/providers/user_provider.dart';
 
 class PostCard extends StatefulWidget {
   final snap;

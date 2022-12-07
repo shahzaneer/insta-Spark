@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:insta_spark/Screens/profile_screen.dart';
 import '../Utils/colors.dart';
 import '../Utils/global_variable.dart';
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({Key? key}) : super(key: key);
